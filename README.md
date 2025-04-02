@@ -1,6 +1,6 @@
 # Speech-to-Speech AI System
 
-This project is a **Speech-to-Speech AI system** powered by the **Gemini 3 model**. It enables real-time speech conversion, starting with recognizing spoken words, processing them through the Gemini 3 AI model for context-based response generation, and finally converting the response back into speech. The system leverages advanced AI and speech technologies to create a seamless conversational experience across different languages.
+This project is a **Speech-to-Speech AI system** powered by the **Gemini 3 model**. It enables real-time speech conversion, starting with recognizing spoken words, processing them through the Gemini 3 AI model for context-based response generation, and finally converting the response back into speech. The system leverages advanced AI and speech technologies to create a seamless conversational experience.
 
 ---
 
